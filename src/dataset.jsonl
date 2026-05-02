@@ -1,0 +1,395 @@
+{"prompt": "What is a key advancement in gene editing in 2025?", "completion": "New gene editing techniques allow more precise DNA modifications with fewer side effects."}
+{"prompt": "How is AI used in modern healthcare?", "completion": "AI assists in diagnosing diseases, predicting risks, and supporting clinical decisions."}
+{"prompt": "What is personalized medicine?", "completion": "It is treatment tailored to an individual’s genetic profile and health data."}
+{"prompt": "What breakthrough occurred in malaria treatment?", "completion": "New therapies achieved near-total cure rates in clinical trials."}
+{"prompt": "How are wearables evolving in healthcare?", "completion": "They are becoming smart fabrics that monitor health continuously."}
+{"prompt": "What role does AI play in drug discovery?", "completion": "AI designs and tests drug candidates faster through simulation."}
+{"prompt": "What is regenerative medicine?", "completion": "It focuses on repairing or replacing damaged tissues using biological methods."}
+{"prompt": "How are stem cells used in 2026 medicine?", "completion": "They are used to regenerate tissues and treat degenerative diseases."}
+{"prompt": "What is a brain-computer interface?", "completion": "A system that allows direct communication between the brain and devices."}
+{"prompt": "What disease detection improved with AI?", "completion": "Alzheimer’s disease detection has become faster and more accurate."}
+{"prompt": "What is continuous health monitoring?", "completion": "Tracking health metrics in real time using wearable or embedded devices."}
+{"prompt": "What is gene therapy?", "completion": "A treatment that modifies or replaces faulty genes to cure disease."}
+{"prompt": "What advancement helps paralyzed patients?", "completion": "Brain-computer interfaces enable control of devices using thoughts."}
+{"prompt": "What is precision medicine?", "completion": "An approach that customizes healthcare based on individual differences."}
+{"prompt": "How is cancer detection improving?", "completion": "New methods can detect cancer earlier, even before symptoms appear."}
+{"prompt": "What is the significance of microbiome research?", "completion": "It links gut bacteria to mental and physical health conditions."}
+{"prompt": "What is a major benefit of AI in diagnostics?", "completion": "It reduces diagnostic errors and speeds up analysis."}
+{"prompt": "What are smart textiles?", "completion": "Fabrics embedded with sensors that track health metrics."}
+{"prompt": "What is cell-free biomanufacturing?", "completion": "Producing biological materials without living cells."}
+{"prompt": "What is a key trend in healthcare delivery?", "completion": "The shift toward remote and virtual care systems."}
+
+{"prompt": "Why are next-generation gene editing tools safer?", "completion": "They minimize unintended DNA changes and improve targeting accuracy."}
+{"prompt": "How does AI detect diseases earlier than humans?", "completion": "It identifies subtle patterns in large datasets that humans may overlook."}
+{"prompt": "Why is regenerative medicine important?", "completion": "It offers the possibility of repairing organs instead of replacing them."}
+{"prompt": "How do smart fabrics improve patient compliance?", "completion": "They collect data passively without requiring user interaction."}
+{"prompt": "Why is personalized medicine more effective?", "completion": "Because treatments are tailored to individual biology and genetics."}
+{"prompt": "How do BCIs restore independence?", "completion": "They allow direct control of assistive technologies through brain signals."}
+{"prompt": "What advantage does AI bring to radiology?", "completion": "It improves detection accuracy and reduces workload for clinicians."}
+{"prompt": "Why are long-acting HIV drugs significant?", "completion": "They reduce the need for daily medication and improve adherence."}
+{"prompt": "How does gut health affect the brain?", "completion": "Through biochemical signaling between gut microbes and the nervous system."}
+{"prompt": "Why is early cancer detection critical?", "completion": "It allows treatment before the disease becomes advanced."}
+{"prompt": "How do virtual hospitals work?", "completion": "They provide care remotely using digital tools and monitoring devices."}
+{"prompt": "Why is gene therapy considered transformative?", "completion": "It targets the underlying cause of disease at the genetic level."}
+{"prompt": "How can AI optimize hospital workflows?", "completion": "By predicting demand and improving scheduling efficiency."}
+{"prompt": "What is the benefit of removing senescent cells?", "completion": "It may reduce inflammation and improve tissue regeneration."}
+{"prompt": "Why are new malaria drugs more effective?", "completion": "They target multiple stages of the parasite lifecycle."}
+{"prompt": "How does predictive medicine reduce costs?", "completion": "By preventing diseases before they require expensive treatments."}
+{"prompt": "What do biosensors detect?", "completion": "They measure biological markers such as glucose, oxygen, or heart rate."}
+{"prompt": "Why is AI useful before clinical trials?", "completion": "It predicts outcomes and filters ineffective drug candidates."}
+{"prompt": "How do stem cells repair tissue?", "completion": "They differentiate into specialized cells needed for healing."}
+{"prompt": "Why do patients respond differently to drugs?", "completion": "Due to genetic, environmental, and lifestyle differences."}
+
+{"prompt": "A patient uses a wearable that tracks heart rate continuously. What benefit does this provide?", "completion": "It enables early detection of abnormalities and timely medical intervention."}
+{"prompt": "A doctor uses AI to analyze scans. What is the main advantage?", "completion": "Improved diagnostic speed and accuracy."}
+{"prompt": "A therapy targets a faulty gene directly. What type of treatment is this?", "completion": "Gene therapy."}
+{"prompt": "A shirt monitors body temperature and heart rate. What technology is this?", "completion": "Smart textile health monitoring."}
+{"prompt": "A treatment is designed based on a patient’s DNA. What is this approach?", "completion": "Personalized medicine."}
+{"prompt": "A paralyzed patient controls a cursor with thoughts. What enables this?", "completion": "A brain-computer interface."}
+{"prompt": "A system predicts disease risk before symptoms. What is this called?", "completion": "Predictive healthcare."}
+{"prompt": "A therapy replaces damaged tissue with lab-grown cells. What field is this?", "completion": "Regenerative medicine."}
+{"prompt": "A drug is designed using simulations instead of trial-and-error. What technology is used?", "completion": "AI-driven drug discovery."}
+{"prompt": "A patient consults a doctor online instead of visiting. What is this called?", "completion": "Telemedicine."}
+
+{"prompt": "Compare traditional medicine and personalized medicine.", "completion": "Traditional medicine uses generalized treatments, while personalized medicine tailors care to individuals."}
+{"prompt": "Compare AI diagnostics to human-only diagnostics.", "completion": "AI diagnostics are faster and data-driven, while humans rely on experience and interpretation."}
+{"prompt": "Compare wearable devices and smart fabrics.", "completion": "Wearables are separate devices, while smart fabrics are integrated into clothing."}
+{"prompt": "Compare gene therapy and drug therapy.", "completion": "Gene therapy fixes genetic causes, while drugs manage symptoms."}
+{"prompt": "Compare preventive and reactive healthcare.", "completion": "Preventive healthcare stops disease early, while reactive treats it after onset."}
+
+{"prompt": "Explain why AI reduces medical errors.", "completion": "Because it standardizes analysis and reduces human oversight limitations."}
+{"prompt": "Explain why regenerative medicine could replace organ transplants.", "completion": "It can grow or repair tissues instead of requiring donor organs."}
+{"prompt": "Explain why microbiome research is important.", "completion": "It reveals connections between gut health and systemic diseases."}
+{"prompt": "Explain why continuous monitoring is better than periodic checkups.", "completion": "It detects changes in real time rather than after symptoms appear."}
+{"prompt": "Explain why early diagnosis improves survival rates.", "completion": "Treatment is more effective before disease progression."}
+
+{"prompt": "What future trend is shaping medicine?", "completion": "Integration of AI, genetics, and continuous monitoring."}
+{"prompt": "What is a limitation of AI in healthcare?", "completion": "It depends on data quality and may lack human judgment."}
+{"prompt": "What is a risk of gene editing?", "completion": "Potential unintended genetic changes."}
+{"prompt": "What is a challenge in personalized medicine?", "completion": "High cost and complex data requirements."}
+{"prompt": "What is a benefit of remote monitoring?", "completion": "Early detection of health issues."}
+
+{"prompt": "How could AI change hospitals in the future?", "completion": "By automating diagnostics, logistics, and patient care planning."}
+{"prompt": "How could gene editing evolve further?", "completion": "Toward safer, more precise, and widely accessible treatments."}
+{"prompt": "How could BCIs improve quality of life?", "completion": "By restoring communication and mobility."}
+{"prompt": "How could wearables become invisible?", "completion": "By integrating into everyday clothing and materials."}
+{"prompt": "How could medicine become fully preventive?", "completion": "Through predictive analytics and continuous monitoring."}
+
+{"prompt": "What is a digital twin in healthcare?", "completion": "A virtual simulation of a patient used to test treatments."}
+{"prompt": "What is a major innovation in antibiotics?", "completion": "AI-designed drugs targeting resistant bacteria."}
+{"prompt": "What is a new approach to aging?", "completion": "Targeting cellular damage and senescent cells."}
+{"prompt": "What is a benefit of long-acting drugs?", "completion": "Reduced dosing frequency and improved adherence."}
+{"prompt": "What is a key advantage of biosensors?", "completion": "Real-time health data collection."}
+
+{"prompt": "Why is data important in modern medicine?", "completion": "It enables accurate predictions and personalized treatments."}
+{"prompt": "Why are simulations used in drug design?", "completion": "They reduce time, cost, and risk."}
+{"prompt": "Why is prevention cheaper than treatment?", "completion": "It avoids expensive late-stage interventions."}
+{"prompt": "Why are smart fabrics considered the future?", "completion": "They integrate seamlessly into daily life."}
+{"prompt": "Why is mental health research advancing?", "completion": "Due to better understanding of brain and microbiome links."}
+
+{"prompt": "What does AI improve in emergency care?", "completion": "Faster triage and decision-making."}
+{"prompt": "What does gene therapy target?", "completion": "Faulty or missing genes."}
+{"prompt": "What does regenerative medicine restore?", "completion": "Damaged tissues or organs."}
+{"prompt": "What does predictive healthcare forecast?", "completion": "Future disease risks."}
+{"prompt": "What does telemedicine replace?", "completion": "Some in-person doctor visits."}
+
+{"prompt": "Describe a benefit of AI in healthcare.", "completion": "It enhances speed and accuracy in diagnostics."}
+{"prompt": "Describe a benefit of gene editing.", "completion": "It can correct genetic disorders at their source."}
+{"prompt": "Describe a benefit of BCIs.", "completion": "They restore lost functions like movement or communication."}
+{"prompt": "Describe a benefit of wearables.", "completion": "They provide continuous health insights."}
+{"prompt": "Describe a benefit of regenerative medicine.", "completion": "It enables tissue repair instead of replacement."}
+
+{"prompt": "What makes modern medicine different from past medicine?", "completion": "It is data-driven, personalized, and technology-integrated."}
+{"prompt": "What is the biggest driver of innovation in healthcare?", "completion": "Advances in AI and biotechnology."}
+{"prompt": "What is a key goal of future medicine?", "completion": "Preventing disease before it occurs."}
+{"prompt": "What is a challenge in scaling new treatments?", "completion": "Cost and accessibility."}
+{"prompt": "What is a benefit of global health innovation?", "completion": "Improved outcomes worldwide."}
+
+{"prompt": "What is a key advancement in gene editing in 2025?", "completion": "New gene editing techniques allow more precise DNA modifications with fewer side effects."}
+{"prompt": "How is AI used in modern healthcare?", "completion": "AI assists in diagnosing diseases, predicting risks, and supporting clinical decisions."}
+{"prompt": "What is personalized medicine?", "completion": "It is treatment tailored to an individual’s genetic profile and health data."}
+{"prompt": "What breakthrough occurred in malaria treatment?", "completion": "New therapies achieved near-total cure rates in clinical trials."}
+{"prompt": "How are wearables evolving in healthcare?", "completion": "They are becoming smart fabrics that monitor health continuously."}
+{"prompt": "What role does AI play in drug discovery?", "completion": "AI designs and tests drug candidates faster through simulation."}
+{"prompt": "What is regenerative medicine?", "completion": "It focuses on repairing or replacing damaged tissues using biological methods."}
+{"prompt": "How are stem cells used in 2026 medicine?", "completion": "They are used to regenerate tissues and treat degenerative diseases."}
+{"prompt": "What is a brain-computer interface?", "completion": "A system that allows direct communication between the brain and devices."}
+{"prompt": "What disease detection improved with AI?", "completion": "Alzheimer’s disease detection has become faster and more accurate."}
+{"prompt": "What is continuous health monitoring?", "completion": "Tracking health metrics in real time using wearable or embedded devices."}
+{"prompt": "What is gene therapy?", "completion": "A treatment that modifies or replaces faulty genes to cure disease."}
+{"prompt": "What advancement helps paralyzed patients?", "completion": "Brain-computer interfaces enable control of devices using thoughts."}
+{"prompt": "What is precision medicine?", "completion": "An approach that customizes healthcare based on individual differences."}
+{"prompt": "How is cancer detection improving?", "completion": "New methods can detect cancer earlier, even before symptoms appear."}
+{"prompt": "What is the significance of microbiome research?", "completion": "It links gut bacteria to mental and physical health conditions."}
+{"prompt": "What is a major benefit of AI in diagnostics?", "completion": "It reduces diagnostic errors and speeds up analysis."}
+{"prompt": "What are smart textiles?", "completion": "Fabrics embedded with sensors that track health metrics."}
+{"prompt": "What is cell-free biomanufacturing?", "completion": "Producing biological materials without living cells."}
+{"prompt": "What is a key trend in healthcare delivery?", "completion": "The shift toward remote and virtual care systems."}
+
+{"prompt": "Why are next-generation gene editing tools safer than older methods?", "completion": "They reduce off-target mutations and improve precision when modifying DNA."}
+{"prompt": "How does AI improve early disease detection?", "completion": "AI analyzes large datasets to identify subtle patterns that humans might miss."}
+{"prompt": "What is the main goal of regenerative medicine?", "completion": "To restore or replace damaged tissues and organs."}
+{"prompt": "How can smart fabrics benefit patients?", "completion": "They provide continuous health monitoring without requiring separate devices."}
+{"prompt": "What is a key advantage of personalized medicine over traditional approaches?", "completion": "It tailors treatment to the individual, increasing effectiveness and reducing side effects."}
+{"prompt": "How are brain-computer interfaces helping disabled individuals?", "completion": "They allow users to control external devices using neural signals."}
+{"prompt": "What role does AI play in medical imaging?", "completion": "AI enhances image analysis, improving accuracy and speed in diagnosis."}
+{"prompt": "What is a major breakthrough in HIV prevention?", "completion": "Long-acting injectable drugs provide extended protection against infection."}
+{"prompt": "How is the gut microbiome linked to mental health?", "completion": "Gut bacteria influence brain chemistry and can affect mood and behavior."}
+{"prompt": "What is early cancer detection important?", "completion": "It increases survival rates by enabling treatment before the disease progresses."}
+{"prompt": "What is a benefit of virtual healthcare systems?", "completion": "They improve access to care, especially for remote or underserved populations."}
+{"prompt": "How does gene therapy differ from traditional drug treatments?", "completion": "Gene therapy targets the root genetic cause instead of managing symptoms."}
+{"prompt": "What is a use case for AI in hospital management?", "completion": "AI optimizes patient flow, staffing, and resource allocation."}
+{"prompt": "What is the significance of removing senescent cells?", "completion": "It may slow aging and improve tissue function."}
+{"prompt": "How are new malaria treatments different from older ones?", "completion": "They are more effective and can achieve near-complete cure rates."}
+{"prompt": "What is predictive healthcare?", "completion": "Using data and AI to forecast health risks before symptoms appear."}
+{"prompt": "What is the function of biosensors in medicine?", "completion": "They detect and measure biological signals for monitoring health conditions."}
+{"prompt": "Why is AI useful in drug development?", "completion": "It reduces time and cost by simulating drug interactions before trials."}
+{"prompt": "What is the role of stem cells in therapy?", "completion": "They can differentiate into various cell types to repair damaged tissues."}
+{"prompt": "What challenge does precision medicine address?", "completion": "Variability in patient responses to treatments."}
+{"prompt": "How do wearable devices contribute to preventive medicine?", "completion": "They track health data continuously, enabling early intervention."}
+{"prompt": "What is a digital twin in healthcare?", "completion": "A virtual model of a patient used to simulate treatments and outcomes."}
+{"prompt": "How is tuberculosis treatment improving?", "completion": "New drug regimens are shorter and more effective."}
+{"prompt": "What is the advantage of AI-assisted surgery?", "completion": "It increases precision and reduces the risk of human error."}
+{"prompt": "What does continuous glucose monitoring do?", "completion": "It tracks blood sugar levels in real time for diabetes management."}
+{"prompt": "How does longevity research impact healthcare?", "completion": "It aims to extend healthy lifespan and reduce age-related diseases."}
+{"prompt": "What is a major benefit of telemedicine?", "completion": "Patients can receive care without traveling to a healthcare facility."}
+{"prompt": "How are new antibiotics being developed?", "completion": "Using AI and novel biological methods to target resistant bacteria."}
+{"prompt": "What is the purpose of organ preservation research?", "completion": "To extend the viability of organs for transplantation."}
+{"prompt": "How does AI help reduce healthcare costs?", "completion": "By improving efficiency and reducing unnecessary procedures."}
+
+{"prompt": "Why is data quality critical for AI in healthcare?", "completion": "Because inaccurate or biased data can lead to incorrect diagnoses and recommendations."}
+{"prompt": "What happens if gene editing targets the wrong DNA sequence?", "completion": "It may cause unintended mutations and potential health risks."}
+{"prompt": "How can AI assist in pandemic response?", "completion": "By predicting spread patterns and optimizing resource allocation."}
+{"prompt": "Why are long-term clinical trials still necessary despite AI?", "completion": "Because real-world biological effects must be validated in humans."}
+{"prompt": "What is a limitation of wearable health devices?", "completion": "They may produce inaccurate readings or require calibration."}
+
+{"prompt": "A patient’s genetic test shows drug resistance. What should be done?", "completion": "Use personalized medicine to select an effective alternative treatment."}
+{"prompt": "A hospital uses AI to predict patient admission rates. What is the benefit?", "completion": "Better staffing and resource planning."}
+{"prompt": "A wearable detects irregular heartbeat patterns. What is the next step?", "completion": "Further medical evaluation to confirm diagnosis."}
+{"prompt": "A new drug is designed entirely by AI. What must happen before use?", "completion": "It must undergo clinical trials for safety and efficacy."}
+{"prompt": "A patient receives lab-grown tissue implants. What field enabled this?", "completion": "Regenerative medicine."}
+
+{"prompt": "How does AI reduce workload for doctors?", "completion": "By automating repetitive tasks like data analysis and documentation."}
+{"prompt": "How does predictive healthcare impact insurance?", "completion": "It may shift focus toward prevention and risk-based pricing."}
+{"prompt": "How do biosensors improve chronic disease management?", "completion": "They provide continuous data for better treatment adjustments."}
+{"prompt": "How do smart textiles differ from fitness trackers?", "completion": "They are embedded in clothing rather than worn as separate devices."}
+{"prompt": "How do BCIs interpret brain signals?", "completion": "By decoding neural activity into actionable commands."}
+
+{"prompt": "Compare AI-driven drug discovery with traditional methods.", "completion": "AI is faster and more efficient, while traditional methods rely on trial and error."}
+{"prompt": "Compare regenerative medicine and prosthetics.", "completion": "Regenerative medicine restores biological tissue, while prosthetics replace function mechanically."}
+{"prompt": "Compare telemedicine and in-person visits.", "completion": "Telemedicine offers convenience, while in-person visits allow physical examination."}
+{"prompt": "Compare gene therapy and CRISPR editing.", "completion": "Gene therapy replaces genes, while CRISPR edits existing DNA sequences."}
+{"prompt": "Compare continuous monitoring and periodic testing.", "completion": "Continuous monitoring provides real-time data, while periodic testing offers snapshots."}
+
+{"prompt": "Why is early intervention important in chronic diseases?", "completion": "It slows progression and reduces complications."}
+{"prompt": "Why is AI not a replacement for doctors?", "completion": "Because it lacks human judgment, empathy, and contextual understanding."}
+{"prompt": "Why is regenerative medicine still experimental?", "completion": "Because long-term outcomes and scalability are still being studied."}
+{"prompt": "Why are antibiotics becoming less effective?", "completion": "Due to increasing bacterial resistance."}
+{"prompt": "Why is global collaboration important in healthcare innovation?", "completion": "It accelerates research and ensures broader access to treatments."}
+
+{"prompt": "What is a benefit of decentralized healthcare?", "completion": "It brings medical services closer to patients."}
+{"prompt": "What is a risk of over-reliance on AI?", "completion": "Reduced human oversight may lead to critical errors."}
+{"prompt": "What is a key driver of longevity research?", "completion": "Understanding cellular aging mechanisms."}
+{"prompt": "What is a major challenge in gene therapy distribution?", "completion": "High cost and complex logistics."}
+{"prompt": "What is a benefit of AI triage systems?", "completion": "Faster prioritization of critical patients."}
+
+{"prompt": "How could healthcare become more proactive?", "completion": "By using predictive analytics and continuous monitoring."}
+{"prompt": "How could AI improve mental health care?", "completion": "By detecting early signs and providing support tools."}
+{"prompt": "How could gene editing eliminate inherited diseases?", "completion": "By correcting mutations before symptoms develop."}
+{"prompt": "How could wearables integrate with healthcare systems?", "completion": "By sending real-time data to doctors for monitoring."}
+{"prompt": "How could regenerative medicine reduce transplant waiting lists?", "completion": "By creating tissues and organs in labs."}
+
+{"prompt": "What is a digital biomarker?", "completion": "A measurable health indicator collected through digital devices."}
+{"prompt": "What is a major innovation in cancer therapy?", "completion": "Treatments targeting specific genetic mutations in tumors."}
+{"prompt": "What is a new trend in vaccine development?", "completion": "Use of mRNA and AI-assisted design."}
+{"prompt": "What is a benefit of robotic surgery?", "completion": "Greater precision and smaller incisions."}
+{"prompt": "What is a challenge in telemedicine adoption?", "completion": "Limited access to technology in some regions."}
+
+{"prompt": "Explain the importance of interoperability in healthcare systems.", "completion": "It allows different systems to share and use patient data effectively."}
+{"prompt": "Explain why patient data privacy is critical.", "completion": "To protect sensitive information from misuse or breaches."}
+{"prompt": "Explain why AI models need continuous updates.", "completion": "Because medical knowledge and data evolve over time."}
+{"prompt": "Explain why early-stage drug failures are beneficial.", "completion": "They prevent costly failures in later stages."}
+{"prompt": "Explain why lifestyle data matters in personalized medicine.", "completion": "It influences health outcomes alongside genetics."}
+
+{"prompt": "What does AI improve in pathology?", "completion": "Accuracy in identifying disease patterns in tissue samples."}
+{"prompt": "What does gene editing enable in agriculture and medicine?", "completion": "Modification of organisms for improved health outcomes."}
+{"prompt": "What does regenerative medicine rely on?", "completion": "Cell biology and tissue engineering."}
+{"prompt": "What does predictive modeling require?", "completion": "Large datasets and advanced algorithms."}
+{"prompt": "What does telehealth depend on?", "completion": "Internet connectivity and digital platforms."}
+
+{"prompt": "Describe a future hospital setting.", "completion": "Highly automated with AI systems, robotics, and remote monitoring."}
+{"prompt": "Describe a future patient experience.", "completion": "Personalized, data-driven, and largely remote."}
+{"prompt": "Describe a future doctor’s role.", "completion": "More focused on interpretation and patient care than data processing."}
+{"prompt": "Describe a future diagnostic process.", "completion": "AI-assisted with instant results from integrated data sources."}
+{"prompt": "Describe a future treatment approach.", "completion": "Customized therapies based on genetic and lifestyle data."}
+
+{"prompt": "What makes AI scalable in healthcare?", "completion": "Its ability to process large volumes of data quickly."}
+{"prompt": "What limits access to advanced therapies?", "completion": "High costs and infrastructure requirements."}
+{"prompt": "What drives innovation in biotech?", "completion": "Advances in computing and molecular biology."}
+{"prompt": "What ensures safety in new treatments?", "completion": "Regulatory approval and clinical trials."}
+{"prompt": "What improves patient engagement?", "completion": "Accessible tools and personalized insights."}
+
+{"prompt": "A rural patient uses telemedicine. What problem does this solve?", "completion": "Limited access to healthcare facilities."}
+{"prompt": "A doctor uses AI for diagnosis. What is reduced?", "completion": "Human error and diagnostic delays."}
+{"prompt": "A patient tracks sleep patterns daily. What is gained?", "completion": "Insights into health and lifestyle impact."}
+{"prompt": "A system predicts heart disease risk. What is enabled?", "completion": "Preventive interventions."}
+{"prompt": "A lab grows skin tissue. What is the application?", "completion": "Treatment of burns and injuries."}
+
+{"prompt": "Why is automation increasing in healthcare?", "completion": "To improve efficiency and reduce costs."}
+{"prompt": "Why are clinical datasets valuable?", "completion": "They enable accurate AI training and insights."}
+{"prompt": "Why is patient-centered care important?", "completion": "It improves satisfaction and outcomes."}
+{"prompt": "Why is healthcare becoming interdisciplinary?", "completion": "Because complex problems require diverse expertise."}
+{"prompt": "Why is remote monitoring growing?", "completion": "Due to advances in sensors and connectivity."}
+
+{"prompt": "What is a benefit of early screening programs?", "completion": "Detection of diseases before symptoms appear."}
+{"prompt": "What is a drawback of high-tech healthcare?", "completion": "Potential inequality in access."}
+{"prompt": "What is a use of AI chatbots in healthcare?", "completion": "Providing basic medical guidance and triage."}
+{"prompt": "What is a benefit of integrated health records?", "completion": "Better coordination of care."}
+{"prompt": "What is a challenge in big data healthcare?", "completion": "Managing and securing large datasets."}
+
+{"prompt": "How can AI detect anomalies in patient data?", "completion": "By comparing patterns against normal baselines."}
+{"prompt": "How can personalized medicine reduce side effects?", "completion": "By matching treatments to individual biology."}
+{"prompt": "How can BCIs evolve further?", "completion": "Toward more precise and non-invasive interfaces."}
+{"prompt": "How can wearables improve fitness?", "completion": "By tracking activity and providing feedback."}
+{"prompt": "How can predictive analytics reduce hospitalizations?", "completion": "By identifying risks early."}
+
+{"prompt": "What is the relationship between AI and big data?", "completion": "AI uses big data to learn and make predictions."}
+{"prompt": "What is the relationship between genetics and disease?", "completion": "Genetic mutations can increase disease risk."}
+{"prompt": "What is the relationship between lifestyle and health?", "completion": "Lifestyle choices significantly impact health outcomes."}
+{"prompt": "What is the relationship between microbiome and immunity?", "completion": "Gut bacteria influence immune responses."}
+{"prompt": "What is the relationship between monitoring and prevention?", "completion": "Continuous monitoring enables early prevention."}
+{"prompt": "What is Exdensur?", "completion": "Exdensur (depemokimab) is a biologic medicine developed by GSK for treating severe asthma with type 2 inflammation and severe chronic rhinosinusitis with nasal polyps."}
+{"prompt": "What is the active substance in Exdensur?", "completion": "The active substance in Exdensur is depemokimab, a humanized monoclonal antibody."}
+{"prompt": "Who manufactures Exdensur?", "completion": "Exdensur is manufactured by GlaxoSmithKline (GSK)."}
+{"prompt": "When did Exdensur receive EU marketing authorisation?", "completion": "Exdensur received EU marketing authorisation on 12 February 2026."}
+{"prompt": "When did the FDA approve Exdensur?", "completion": "The FDA approved Exdensur in December 2025 for severe asthma with an eosinophilic phenotype."}
+{"prompt": "What type of drug is Exdensur?", "completion": "Exdensur is an IL-5 antagonist monoclonal antibody classified under drugs for obstructive airway diseases (ATC code R03DX12)."}
+{"prompt": "What is the ATC code for Exdensur?", "completion": "The ATC code for Exdensur is R03DX12."}
+{"prompt": "What class of biologic is Exdensur?", "completion": "Exdensur is a humanized IgG1 kappa monoclonal antibody that acts as an IL-5 antagonist."}
+{"prompt": "What makes Exdensur unique among biologics for asthma?", "completion": "Exdensur is the first and only ultra-long-acting biologic approved in the EU for respiratory diseases, requiring only twice-yearly dosing."}
+{"prompt": "In which countries is Exdensur approved?", "completion": "Exdensur is approved in the US, EU, UK, Japan, and China."}
+{"prompt": "How does Exdensur work?", "completion": "Exdensur binds to interleukin-5 (IL-5), blocking it from activating eosinophils. This reduces eosinophil numbers and airway inflammation, improving symptoms of asthma and nasal polyps."}
+{"prompt": "What protein does Exdensur target?", "completion": "Exdensur targets interleukin-5 (IL-5), a protein that stimulates eosinophil production and survival."}
+{"prompt": "What is interleukin-5?", "completion": "Interleukin-5 (IL-5) is a cytokine that stimulates the production and survival of eosinophils, playing a central role in type 2 airway inflammation."}
+{"prompt": "What are eosinophils?", "completion": "Eosinophils are a type of white blood cell involved in inflammation. Excess eosinophils cause airway inflammation in severe asthma and nasal polyps."}
+{"prompt": "Why does blocking IL-5 reduce asthma symptoms?", "completion": "Blocking IL-5 reduces eosinophil production and activation, which decreases airway inflammation and lowers the frequency of asthma attacks."}
+{"prompt": "What is the dissociation constant of depemokimab binding to IL-5?", "completion": "Depemokimab binds IL-5 with a dissociation constant of 10.5 pM, indicating very high binding affinity."}
+{"prompt": "What is the IC50 value of depemokimab?", "completion": "Depemokimab inhibits IL-5 bioactivity with an in vitro IC50 value of 4 pM."}
+{"prompt": "What molecular modification gives Exdensur its long half-life?", "completion": "Exdensur contains a triple amino acid substitution (YTE) in the Fc region, which extends its half-life and enables twice-yearly dosing."}
+{"prompt": "How does Exdensur differ from mepolizumab and benralizumab?", "completion": "Unlike mepolizumab and benralizumab which require more frequent dosing, Exdensur's extended half-life allows a twice-yearly (every 6 months) dosing schedule."}
+{"prompt": "What is type 2 inflammation in asthma?", "completion": "Type 2 inflammation is an immune response driven by eosinophils and cytokines like IL-5, causing airway swelling and obstruction in severe asthma."}
+{"prompt": "What conditions is Exdensur approved to treat?", "completion": "Exdensur is approved for severe asthma with type 2 inflammation in patients aged 12 and older, and severe chronic rhinosinusitis with nasal polyps (CRSwNP) in adults."}
+{"prompt": "What is chronic rhinosinusitis with nasal polyps?", "completion": "Chronic rhinosinusitis with nasal polyps (CRSwNP) is a condition where growths (polyps) form in the nose and sinuses, causing obstruction and inflammation."}
+{"prompt": "Who is eligible for Exdensur treatment for asthma?", "completion": "Adults and adolescents aged 12 and older with severe asthma with type 2 inflammation, whose asthma is not controlled despite high-dose inhaled corticosteroids plus another controller."}
+{"prompt": "Who is eligible for Exdensur treatment for nasal polyps?", "completion": "Adults with severe CRSwNP for whom systemic corticosteroids and/or surgery have not provided adequate disease control."}
+{"prompt": "Is Exdensur approved for children under 12?", "completion": "No, Exdensur is only approved for patients aged 12 years and older."}
+{"prompt": "What blood marker is used to identify eligible asthma patients for Exdensur?", "completion": "Blood eosinophil count is used to identify patients with type 2 inflammation who are eligible for Exdensur."}
+{"prompt": "Is Exdensur a standalone treatment?", "completion": "No, Exdensur is used as add-on maintenance therapy alongside existing treatments such as inhaled corticosteroids and other asthma controllers."}
+{"prompt": "Can Exdensur be used as a first-line treatment?", "completion": "No, Exdensur is indicated only for patients who are inadequately controlled despite standard high-dose treatment."}
+{"prompt": "What prior treatments must fail before Exdensur is considered for CRSwNP?", "completion": "Patients must have inadequate disease control despite systemic corticosteroids and/or surgery before Exdensur is considered."}
+{"prompt": "What is the therapeutic area for Exdensur?", "completion": "Exdensur is classified under asthma and nasal polyps as its therapeutic areas."}
+{"prompt": "How often is Exdensur administered?", "completion": "Exdensur is administered once every 6 months (twice yearly) as a subcutaneous injection."}
+{"prompt": "How is Exdensur given?", "completion": "Exdensur is given as a subcutaneous injection, typically in the thigh or abdomen."}
+{"prompt": "What forms does Exdensur come in?", "completion": "Exdensur is available in pre-filled pens and pre-filled syringes."}
+{"prompt": "Can patients self-inject Exdensur?", "completion": "Yes, patients or their carers may self-inject Exdensur if deemed appropriate by a doctor and after receiving proper training."}
+{"prompt": "How long is Exdensur used for?", "completion": "Exdensur is intended for long-term use, with the doctor regularly assessing whether treatment should continue."}
+{"prompt": "Who should prescribe Exdensur?", "completion": "Exdensur should be prescribed by a doctor experienced in diagnosing and treating asthma or chronic rhinosinusitis with nasal polyps."}
+{"prompt": "Why is twice-yearly dosing significant for patient adherence?", "completion": "Twice-yearly dosing reduces the treatment burden, making it easier for patients to stick to their medication schedule compared to monthly or weekly biologics."}
+{"prompt": "Where on the body is Exdensur injected?", "completion": "Exdensur is usually injected under the skin in the thigh or abdomen."}
+{"prompt": "Is Exdensur given intravenously?", "completion": "No, Exdensur is administered subcutaneously (under the skin), not intravenously."}
+{"prompt": "Can an adolescent self-administer Exdensur?", "completion": "Yes, adolescents aged 12 and above may self-administer Exdensur with appropriate training and doctor approval."}
+{"prompt": "What clinical trials supported Exdensur's approval for asthma?", "completion": "The SWIFT-1 and SWIFT-2 phase 3 trials supported Exdensur's approval for severe asthma."}
+{"prompt": "What clinical trials supported Exdensur's approval for nasal polyps?", "completion": "The ANCHOR phase 3 trials supported Exdensur's approval for severe chronic rhinosinusitis with nasal polyps."}
+{"prompt": "How many patients were in the asthma trials for Exdensur?", "completion": "The SWIFT-1 and SWIFT-2 trials involved a total of 792 patients, including 30 adolescents aged 12 to 17."}
+{"prompt": "How many patients were in the nasal polyp trials for Exdensur?", "completion": "The CRSwNP trials involved a total of 540 patients."}
+{"prompt": "What was the average asthma attack rate in Exdensur patients after 52 weeks?", "completion": "After 52 weeks, patients on Exdensur had an average of 0.5 severe asthma attacks per year, compared to 1.1 in placebo patients."}
+{"prompt": "What exacerbation reduction did SWIFT-1 show?", "completion": "SWIFT-1 showed a 58% reduction in the annualized rate of clinically significant asthma exacerbations over 52 weeks compared to placebo."}
+{"prompt": "What exacerbation reduction did SWIFT-2 show?", "completion": "SWIFT-2 showed a 48% reduction in the annualized rate of clinically significant asthma exacerbations over 52 weeks compared to placebo."}
+{"prompt": "What was the pooled hospitalization reduction in asthma trials?", "completion": "A pooled analysis showed a 72% reduction in asthma exacerbations requiring hospitalization or emergency department visits for Exdensur versus placebo."}
+{"prompt": "How was nasal polyp effectiveness measured in the CRSwNP trials?", "completion": "Effectiveness was measured using nasal polyp score (0\u20138) and verbal response scale (VRS) nasal obstruction score (0\u20133)."}
+{"prompt": "What were the nasal polyp score improvements with Exdensur?", "completion": "After 52 weeks, nasal polyp score improved by 0.5 points with Exdensur compared to a worsening of 0.1 points with placebo."}
+{"prompt": "What was the nasal obstruction improvement with Exdensur?", "completion": "Nasal obstruction improved by 0.8 points with Exdensur versus 0.5 points with placebo after 52 weeks."}
+{"prompt": "Did Exdensur improve lung function in asthma trials?", "completion": "No, trials found no significant difference in FEV1 (lung function) or quality of life scores between Exdensur and placebo in asthma patients."}
+{"prompt": "What is FEV1?", "completion": "FEV1 is the maximum volume of air a person can breathe out in one second, used as a measure of lung function."}
+{"prompt": "How long did the Exdensur clinical trials run?", "completion": "The main clinical trials for Exdensur ran for 52 weeks."}
+{"prompt": "What was the comparator in Exdensur clinical trials?", "completion": "Exdensur was compared to placebo (dummy treatment) added to standard care in all trials."}
+{"prompt": "What are the most common side effects of Exdensur?", "completion": "The most common side effects are injection site reactions including pain, redness, swelling, and itching, affecting up to 1 in 10 people."}
+{"prompt": "Is Exdensur well tolerated?", "completion": "Yes, Exdensur was well tolerated in clinical trials, with side effects generally mild and similar to placebo."}
+{"prompt": "Are serious side effects common with Exdensur?", "completion": "Serious side effects were uncommon; patients experienced a similar rate and severity of side effects as those receiving placebo."}
+{"prompt": "Is Exdensur under additional monitoring?", "completion": "Yes, Exdensur is under additional EU monitoring, meaning its safety is tracked more intensively than standard medicines."}
+{"prompt": "What does additional monitoring mean for Exdensur?", "completion": "It means suspected side effects are closely and continuously monitored by the EMA, and any necessary safety actions are taken promptly."}
+{"prompt": "Can Exdensur cause allergic reactions?", "completion": "As with all monoclonal antibodies, allergic or hypersensitivity reactions are possible with Exdensur, though they were not common in trials."}
+{"prompt": "What should a patient do if they experience a reaction at the injection site?", "completion": "Patients should inform their doctor or pharmacist about injection site reactions such as pain, redness, or swelling."}
+{"prompt": "Is Exdensur safe for adolescents?", "completion": "Exdensur has been approved for adolescents aged 12 and older, and was included in the SWIFT trials which involved 30 adolescents."}
+{"prompt": "Does Exdensur interact with other asthma medications?", "completion": "Exdensur is used as add-on therapy alongside other medications. Patients should inform their doctor of all medications for potential interactions."}
+{"prompt": "Who should not use Exdensur?", "completion": "Patients with known hypersensitivity to depemokimab or its excipients should not use Exdensur. A specialist should assess suitability."}
+{"prompt": "How does Exdensur compare to mepolizumab for asthma?", "completion": "Both target IL-5, but Exdensur requires only twice-yearly dosing due to its extended half-life, while mepolizumab requires monthly injections."}
+{"prompt": "How does Exdensur compare to benralizumab?", "completion": "Benralizumab targets the IL-5 receptor and requires injections every 8 weeks; Exdensur targets IL-5 directly and requires only twice-yearly dosing."}
+{"prompt": "What advantage does Exdensur have over older IL-5 biologics?", "completion": "Exdensur's YTE Fc modification gives it a longer half-life, requiring far less frequent dosing than older IL-5 biologics."}
+{"prompt": "How does Exdensur compare to dupilumab for CRSwNP?", "completion": "Dupilumab targets IL-4/IL-13 signaling while Exdensur targets IL-5. Both are add-on biologics for CRSwNP, but they target different inflammatory pathways."}
+{"prompt": "What is the benefit of Exdensur over corticosteroids?", "completion": "Exdensur targets the root eosinophilic inflammation pathway, avoiding the systemic side effects associated with long-term corticosteroid use."}
+{"prompt": "Is Exdensur more effective than surgery for nasal polyps?", "completion": "Exdensur is indicated for patients who failed surgery; clinical trials showed it reduces polyp size and nasal obstruction effectively in this group."}
+{"prompt": "Why might a doctor choose Exdensur over monthly biologics?", "completion": "The twice-yearly dosing schedule improves patient adherence and reduces the burden of frequent injections, especially for chronic disease management."}
+{"prompt": "How common is severe asthma in Europe?", "completion": "About 5\u201310% of the estimated 42 million asthma patients in Europe have severe asthma, many of whom remain uncontrolled despite standard treatment."}
+{"prompt": "How many people have severe asthma in Europe?", "completion": "An estimated 3 million people in Europe live with severe asthma."}
+{"prompt": "What proportion of CRSwNP patients remain uncontrolled?", "completion": "Almost half of patients with chronic rhinosinusitis with nasal polyps remain uncontrolled despite available treatments."}
+{"prompt": "Why is severe asthma difficult to treat?", "completion": "Severe asthma involves persistent inflammation and exacerbations that do not adequately respond to high-dose inhaled corticosteroids and standard controllers."}
+{"prompt": "What is eosinophilic asthma?", "completion": "Eosinophilic asthma is a subtype of severe asthma driven by excess eosinophils causing airway inflammation, responsive to IL-5 targeting therapies like Exdensur."}
+{"prompt": "What role do nasal polyps play in CRSwNP?", "completion": "Nasal polyps are soft tissue growths that block the nasal passages, causing persistent obstruction, congestion, and impaired quality of life."}
+{"prompt": "What is the unmet need Exdensur addresses?", "completion": "Exdensur addresses the unmet need for patients with severe eosinophilic asthma and CRSwNP who remain uncontrolled on existing therapies."}
+{"prompt": "Why is eosinophil count important in asthma treatment decisions?", "completion": "High blood eosinophil count identifies patients with type 2 inflammation who are most likely to respond to IL-5 targeting biologics like Exdensur."}
+{"prompt": "What is the burden of CRSwNP on patients?", "completion": "CRSwNP causes debilitating daily symptoms including nasal obstruction, reduced smell, facial pressure, and significantly impacts quality of life."}
+{"prompt": "What is the relationship between asthma and eosinophils?", "completion": "In eosinophilic asthma, excess eosinophils driven by IL-5 cause airway inflammation, leading to swelling, mucus production, and increased exacerbations."}
+{"prompt": "Who approved Exdensur in the EU?", "completion": "The European Commission granted Exdensur's marketing authorisation on 12 February 2026, based on a positive opinion from the EMA."}
+{"prompt": "What is the EMA product number for Exdensur?", "completion": "The EMA product number for Exdensur is EMEA/H/C/006446."}
+{"prompt": "When did the CHMP adopt a positive opinion for Exdensur?", "completion": "The CHMP adopted a positive opinion for Exdensur on 11 December 2025."}
+{"prompt": "What organisation was consulted during Exdensur's EU evaluation?", "completion": "The European Respiratory Society was consulted during evaluation to provide healthcare professionals' perspective on the diseases and available treatments."}
+{"prompt": "What does EMA's additional monitoring mean in practice?", "completion": "It means that Exdensur's safety data is actively and intensively collected post-approval, with the EMA evaluating any suspected side effects and acting if needed."}
+{"prompt": "What phase trials supported Exdensur's approval?", "completion": "Four phase 3 trials (SWIFT-1, SWIFT-2, and the ANCHOR studies) supported Exdensur's approval for asthma and CRSwNP."}
+{"prompt": "Is Exdensur prescription-only?", "completion": "Yes, Exdensur can only be obtained with a prescription and must be prescribed by a specialist."}
+{"prompt": "What is the marketing authorisation holder for Exdensur?", "completion": "The marketing authorisation holder is GlaxoSmithKline Trading Services Limited, based in Dublin, Ireland."}
+{"prompt": "A patient with severe asthma has high eosinophil count and is uncontrolled on high-dose inhaled steroids. What might they be prescribed?", "completion": "They may be eligible for Exdensur as an add-on maintenance therapy targeting IL-5 to reduce eosinophilic inflammation."}
+{"prompt": "A patient had sinus surgery but still suffers from large nasal polyps. What treatment could be considered?", "completion": "Exdensur may be considered as add-on therapy since it is indicated for CRSwNP patients who are inadequately controlled despite surgery and corticosteroids."}
+{"prompt": "A patient struggles to adhere to monthly injections for asthma. What advantage does Exdensur offer?", "completion": "Exdensur requires only twice-yearly injections, significantly reducing the treatment burden and potentially improving adherence."}
+{"prompt": "A doctor measures a patient's nasal polyp score at 6 before and 5.5 after Exdensur treatment. What does this indicate?", "completion": "A reduction in nasal polyp score indicates Exdensur is reducing polyp size, which is a positive clinical response."}
+{"prompt": "A teenager aged 14 has severe eosinophilic asthma uncontrolled on standard treatment. Is Exdensur appropriate?", "completion": "Yes, Exdensur is approved for patients aged 12 and older, so it may be an appropriate add-on therapy after specialist evaluation."}
+{"prompt": "A patient wants to self-inject Exdensur. What is required first?", "completion": "The patient must receive proper training from a doctor or nurse before self-injecting Exdensur."}
+{"prompt": "A patient on Exdensur reports pain and redness at the injection site. Is this expected?", "completion": "Yes, injection site reactions are the most common side effect of Exdensur, affecting up to 1 in 10 people and are generally mild."}
+{"prompt": "A patient asks why Exdensur doesn't improve their FEV1. How should a doctor explain?", "completion": "Clinical trials showed Exdensur reduces exacerbations effectively but did not demonstrate significant improvement in FEV1 or quality of life scores."}
+{"prompt": "A patient asks if they can stop their inhaled corticosteroids once on Exdensur. What is the answer?", "completion": "No, Exdensur is an add-on therapy and should be used alongside other prescribed treatments, not as a replacement."}
+{"prompt": "A pharmacist is asked about the storage of Exdensur. What form does it come in?", "completion": "Exdensur is available in pre-filled pens and syringes for subcutaneous injection; the pharmacist should provide storage instructions per product guidelines."}
+{"prompt": "Compare Exdensur to traditional corticosteroid therapy for asthma.", "completion": "Corticosteroids broadly suppress inflammation but have systemic side effects with long-term use. Exdensur specifically targets IL-5, reducing eosinophils with fewer systemic effects."}
+{"prompt": "Compare Exdensur's dosing with other biologic asthma treatments.", "completion": "Most biologic asthma treatments require monthly or bimonthly dosing. Exdensur is unique in requiring only twice-yearly injections."}
+{"prompt": "Compare the asthma and CRSwNP indications of Exdensur.", "completion": "For asthma, Exdensur is used in patients 12+ with type 2 inflammation uncontrolled on high-dose ICS. For CRSwNP, it is used in adults who failed corticosteroids and/or surgery."}
+{"prompt": "Compare the SWIFT and ANCHOR trial outcomes.", "completion": "SWIFT trials showed 48\u201358% reduction in asthma exacerbations; ANCHOR trials showed improvements in nasal polyp size and nasal obstruction scores."}
+{"prompt": "Compare Exdensur and surgery for nasal polyp treatment.", "completion": "Surgery physically removes polyps but recurrence is common. Exdensur targets the underlying eosinophilic inflammation to reduce polyp regrowth and obstruction."}
+{"prompt": "Explain why Exdensur only needs to be given every 6 months.", "completion": "The YTE triple amino acid substitution in Exdensur's Fc region extends its half-life, allowing sustained IL-5 suppression with just two doses per year."}
+{"prompt": "Explain why Exdensur is only for type 2 inflammation asthma.", "completion": "Exdensur works by blocking IL-5 which drives eosinophilic (type 2) inflammation. It is not effective for non-eosinophilic asthma types."}
+{"prompt": "Explain why clinical trials showed no FEV1 improvement despite reduced exacerbations.", "completion": "Exdensur effectively reduces eosinophilic inflammation and attacks, but lung structural changes in severe asthma may not reverse with anti-IL-5 therapy alone."}
+{"prompt": "Explain the significance of a 72% reduction in asthma hospitalizations.", "completion": "A 72% reduction in hospitalizations means significantly fewer severe attacks requiring emergency care, reducing patient risk and healthcare system burden."}
+{"prompt": "Explain why Exdensur is considered an add-on therapy.", "completion": "Exdensur complements rather than replaces existing therapies by targeting a specific inflammatory pathway not addressed by inhaled corticosteroids or bronchodilators."}
+{"prompt": "What does Exdensur's approval mean for severe asthma patients?", "completion": "It provides an effective, convenient twice-yearly biologic option for patients whose asthma is uncontrolled on standard therapies."}
+{"prompt": "How could ultra-long-acting biologics like Exdensur change disease management?", "completion": "They could greatly reduce injection frequency, improve adherence, and make biologic therapy more practical for patients with chronic diseases."}
+{"prompt": "What future research might follow Exdensur's approval?", "completion": "Future research may explore use in additional eosinophilic conditions, pediatric populations under 12, or combination with other biologics."}
+{"prompt": "What does Exdensur's approval signal about the future of respiratory biologics?", "completion": "It signals a move toward ultra-long-acting precision biologics that target specific inflammatory pathways while minimizing dosing burden."}
+{"prompt": "How could Exdensur impact healthcare systems?", "completion": "By reducing asthma exacerbations and hospitalizations, Exdensur could lower emergency care costs and reduce the burden on respiratory care services."}
+{"prompt": "What is a monoclonal antibody?", "completion": "A monoclonal antibody is a laboratory-made protein designed to bind to a specific target, such as IL-5 in Exdensur, to block its biological activity."}
+{"prompt": "What is subcutaneous injection?", "completion": "A subcutaneous injection delivers medication into the tissue layer between skin and muscle, used for drugs like Exdensur that require slow absorption."}
+{"prompt": "What is a pre-filled pen?", "completion": "A pre-filled pen is a ready-to-use injection device containing a measured dose of medication, making self-injection easier for patients."}
+{"prompt": "What is an add-on maintenance therapy?", "completion": "An add-on maintenance therapy is a treatment added to existing standard care to further control a chronic condition that is not adequately managed alone."}
+{"prompt": "What is a phase 3 clinical trial?", "completion": "A phase 3 trial is a large-scale study comparing a new treatment against placebo or standard care to confirm effectiveness and monitor safety before regulatory approval."}
+{"prompt": "What does marketing authorisation mean?", "completion": "Marketing authorisation is regulatory approval allowing a medicine to be legally sold and used in a specific region, granted after reviewing safety and efficacy data."}
+{"prompt": "What is the nasal polyp score?", "completion": "The nasal polyp score is a 0\u20138 scale measuring polyp size per nostril, used to assess treatment response in chronic rhinosinusitis with nasal polyps."}
+{"prompt": "What is the verbal response scale in CRSwNP?", "completion": "The VRS is a 0\u20133 scale measuring nasal obstruction severity, with 0 meaning no symptoms and 3 meaning severe symptoms."}
+{"prompt": "What is the ACQ-5 questionnaire?", "completion": "ACQ-5 is a 5-item Asthma Control Questionnaire that measures how well asthma is controlled based on a patient's daily symptoms and activity limitations."}
+{"prompt": "What is the SGRQ questionnaire?", "completion": "The St George's Respiratory Questionnaire (SGRQ) measures the impact of respiratory diseases on daily life and quality of life."}
+{"prompt": "What is depemokimab's binding mechanism at the molecular level?", "completion": "Depemokimab binds IL-5 with very high affinity (Kd 10.5 pM) and blocks it from binding to the alpha chain of the IL-5 receptor on eosinophil surfaces."}
+{"prompt": "What is the significance of the YTE modification in Exdensur?", "completion": "The YTE (Met-Tyr-Thr to Tyr-Thr-Glu) triple substitution in the Fc region increases neonatal Fc receptor binding, extending the drug's serum half-life."}
+{"prompt": "How does Exdensur reduce nasal polyp size?", "completion": "By blocking IL-5, Exdensur reduces eosinophilic inflammation in the nasal mucosa, slowing or reversing the tissue growth that forms polyps."}
+{"prompt": "What was the hospitalization rate for placebo patients in SWIFT trials?", "completion": "Placebo patients experienced hospitalization or ED visit rates of 8% and 10% in SWIFT-1 and SWIFT-2 respectively, compared to 1% and 4% for Exdensur patients."}
+{"prompt": "What regulatory body approved Exdensur in Europe?", "completion": "The European Commission granted the marketing authorisation, following a positive CHMP opinion from the European Medicines Agency."}
+{"prompt": "What is the significance of Exdensur receiving approval in multiple countries?", "completion": "Approvals across the US, EU, UK, Japan, and China reflect consistent phase 3 evidence of efficacy and safety across diverse patient populations."}
+{"prompt": "What is the pharmacotherapeutic group of Exdensur?", "completion": "Exdensur belongs to the pharmacotherapeutic group 'drugs for obstructive airway diseases'."}
+{"prompt": "What is depemokimab's INN?", "completion": "The International Non-proprietary Name (INN) for the active substance in Exdensur is depemokimab."}
+{"prompt": "What is the US brand name suffix for depemokimab?", "completion": "In the US, depemokimab is marketed as depemokimab-ulaa, where 'ulaa' is the distinguishing suffix used by the FDA."}
+{"prompt": "What is the estimated number of people with CRSwNP in Europe?", "completion": "A significant proportion of Europe's population is affected, with almost half of CRSwNP patients remaining uncontrolled on standard therapies."}

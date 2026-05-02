@@ -1,0 +1,26 @@
+# Python files
+__pycache__/
+*.pyc
+.python-version
+
+# Logs
+aquin_logs/
+
+# TMP
+*.tmp
+*.swp
+*.bak
+
+# LLM specific
+checkpoints/
+final_model/
+outs/
+
+checkpoint.json
+
+# Generated / Get - Docs, modules, ...
+docs/build
+node_modules/
+.vscode/
+package-lock.json
+
