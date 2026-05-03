@@ -9,7 +9,7 @@ from data_loader import load_jsonl
 
 MODEL_NAME = "meta-llama/Llama-3.2-1B-Instruct"
 API_KEY = "aq-..."
-DATA_PATH = "./dataset.jsonl"
+DATA_PATH = "./src/dataset.jsonl"
 
 # =========================================================
 # LOAD JSONL DATASET
